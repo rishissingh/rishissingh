@@ -1,6 +1,6 @@
 # Hi , I'm Rishi Singh! 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/rishi-singh-6717a7392)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white&link=https://www.linkedin.com/in/rishi-singh-6717a7392)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square&link=https://instagram.com/imrishivats)](https://instagram.com/imrishivats)
 ![Location](https://img.shields.io/badge/Location-Vadodara-ff69b4?style=flat-square)
 
