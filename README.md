@@ -38,16 +38,22 @@ Projects to be announced soon! Stay tuned 🚀
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishissingh&show_icons=true&theme=radical" alt="Rishi's GitHub stats" />
+<div align="center">
+  <a href="https://github.com/rishissingh">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rishissingh&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Rishi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/rishissingh">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishissingh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishissingh&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishissingh&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
+  <a href="https://github.com/rishissingh">
+    <img src="https://streak-stats.demolab.com?user=rishissingh&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
 ---
 
 <!--
