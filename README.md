@@ -12,62 +12,59 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+%7C+Python+Developer;DSA+%7C+Problem+Solver;Backend+%7C+System+Design+Learner;Building+Smart+Systems+🚀&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+%7C+JavaScript+Developer;DSA+%7C+Problem+Solver;Backend+%7C+System+Design+Learner;Building+Smart+Systems+🚀&center=true&width=600&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-Name: Rishi Singh
-Education: Computer Science Engineering
-Focus: Placements + Real-World Engineering
+## 👋 Hi, I'm Rishi Singh
 
-💻 Strong in DSA, Backend & Core CS
-🔬 Building SmartCodeGrader – Auto Grading Platform
-🌱 Learning Cloud, System Design & Scalable Systems
-⚡ Believe in consistency > motivation
+🎓 **Computer Science Engineering Student**  
+🎯 **Focus:** Placements + Real-World Engineering  
 
-"Write code that humans love and machines respect."
+💻 Strong in **DSA, Backend & Core CS**  
+🔬 Building **SmartCodeGrader** – Auto-Grading Platform  
+🌱 Learning **Cloud, System Design & Scalable Systems**  
+⚡ Believe in **consistency > motivation**
 
-🧠 Skills & Tech Stack
-💻 Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,docker,git,github,linux&theme=dark"/> </p>
-🔍 Core Strengths
+> *"Write code that humans love and machines respect."*
 
-Data Structures & Algorithms
+---
 
-Java & Python Backend
+## 🧠 Skills & Tech Stack
 
-REST APIs & MVC Architecture
+### 💻 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,docker,git,github,linux&theme=dark"/>
+</p>
 
-Docker & Containerization
+### 🔍 Core Strengths
+- Data Structures & Algorithms  
+- Java & Python Backend Development  
+- REST APIs & MVC Architecture  
+- Docker & Containerization  
+- Git, GitHub & Collaboration  
 
-Git, GitHub & Collaboration
+---
 
-🧩 DSA & Competitive Programming
+## 🧩 DSA & Competitive Programming
 
-📌 Problem Solving Focus
+### 📌 Problem Solving Focus
+- Arrays • Strings • Recursion  
+- Stack • Queue • Linked List  
+- Trees • Graphs • Dynamic Programming  
+- Sliding Window • Binary Search  
 
-Arrays • Strings • Recursion
+### 🏆 Platforms
+- LeetCode  
+- GeeksforGeeks  
+- CodeStudio  
 
-Stack • Queue • Linked List
+📈 *Daily DSA practice with optimized Java solutions*
 
-Trees • Graphs • DP
-
-Sliding Window • Binary Search
-
-🏆 Platforms
-
-LeetCode
-
-GeeksforGeeks
-
-CodeStudio
-
-📈 Daily DSA practice with optimized solutions in Java
-
+---
 
 ## 🧠 DSA & LeetCode Stats
 
@@ -75,60 +72,70 @@ CodeStudio
   <img src="https://leetcard.jacoblin.cool/rishissingh?theme=dark&font=Karma&ext=contest" />
 </p>
 
-📌 **Focus Areas**
+### 📌 Focus Areas
 - Arrays • Strings • Two Pointers  
 - Binary Search • Sliding Window  
 - Linked List • Stack • Queue  
 - Trees • Graphs • Dynamic Programming  
 
 🔥 *Solving problems daily with optimal Java solutions*
-🚧 Featured Projects
-🔥 SmartCodeGrader (Flagship Project)
 
-Auto-Grading System for Coding Assignments
+---
 
-🧠 Features:
+## 🚧 Featured Projects
 
-LeetCode-style test evaluation
+### 🔥 SmartCodeGrader (Flagship Project)
+**Auto-Grading System for Coding Assignments**
 
-Time & Space Complexity Analysis
+🧠 **Features**
+- LeetCode-style test evaluation  
+- Time & Space Complexity Analysis  
+- Custom Test Case Engine  
+- Instant Feedback + Hints  
+- Dockerized Code Execution  
+- Ranking & Performance Analytics  
 
-Custom Test Case Engine
+🛠 **Tech Stack**  
+`Java` `Spring Boot` `Docker` `REST APIs`
 
-Instant Feedback + Hints
+📌 *Repository launching soon*
 
-Dockerized Code Execution
+---
 
-Ranking & Performance Analytics
+## 📊 GitHub Analytics
 
-🛠 Tech Stack:
-Java Springboot Docker REST APIs
-📌 Repository launching soon
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishissingh&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishissingh&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=rishissingh&theme=radical&hide_border=true"/>
+</p>
 
-📊 GitHub Analytics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishissingh&show_icons=true&theme=radical&hide_border=true&count_private=true"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishissingh&layout=compact&theme=radical&hide_border=true"/> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=rishissingh&theme=radical&hide_border=true"/> </p>
-**rishissingh/rishissingh** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile!
--->
+---
 
+## 🎯 Current Goals
+- 🚀 Crack top tech placements  
+- 🧠 Master System Design  
+- 🌐 Build scalable backend systems  
+- 🤝 Contribute to Open Source  
 
-🎯 Current Goals
+---
 
-🚀 Crack top tech placements
+## 📬 Let's Connect
 
-🧠 Master System Design
+📧 **Email:** `rishipratap6698@gmail.com`  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rishi-singh-6717a7392)  
+📸 **Instagram:** [@imrishivats](https://instagram.com/imrishivats)
 
-🌐 Build scalable backend systems
+---
 
-🤝 Contribute to Open Source
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
-📬 Let's Connect
+⭐ *If you like my work, don’t forget to star ⭐ my repositories!*
 
-📧 Email: rishipratap6698@gmail.com
-💼 LinkedIn: Connect with me
-
-📸 Instagram: @imrishivats
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
 
 ⭐ If you like my work, don’t forget to star ⭐ my repositories!
