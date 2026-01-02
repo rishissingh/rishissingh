@@ -42,7 +42,7 @@
 
 ### 🔍 Core Strengths
 - Data Structures & Algorithms  
-- Java & Python Backend Development  
+- Java Backend Development  
 - REST APIs & MVC Architecture  
 - Docker & Containerization  
 - Git, GitHub & Collaboration  
