@@ -105,13 +105,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishissingh&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishissingh&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishissingh&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishissingh&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=rishissingh&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=rishissingh&theme=radical&hide_border=true"/>
 </p>
+
 
 ---
 
@@ -137,5 +138,3 @@
 
 ⭐ *If you like my work, don’t forget to star ⭐ my repositories!*
 
-
-⭐ If you like my work, don’t forget to star ⭐ my repositories!
